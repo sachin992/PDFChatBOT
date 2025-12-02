@@ -137,4 +137,15 @@ The bot answers only based on uploaded PDFs.
 ![Chat Window](/images/ChatWithPDF.png)
 
 
-(Replace paths with your actual images folder)
+
+🎯 Use Cases
+
+Research & academic study
+
+Legal document lookup
+
+Technical documentation search
+
+Contract & policy analysis
+
+Knowledge extraction from books, manuals, reports
